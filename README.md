@@ -1,2 +1,3 @@
 # covid_data
-excel start to finish project
+This is an excel start to finish project
+
